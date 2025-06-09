@@ -1,0 +1,7 @@
+config.py
+__pycache__
+.ipynb_checkpoints
+chroma_db
+data_hash.txt
+embeddings.pkl
+interested_customers.csv
