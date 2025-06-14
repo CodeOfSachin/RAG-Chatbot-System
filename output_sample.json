@@ -1,0 +1,30 @@
+[
+  {
+    "Query 1": "Hello",
+    "Response 1": "Hello there! I'd be happy to help you find something in our clothing collection. What type of clothing are you interested in today?"
+  },
+  {
+    "Query 2": "Do you sell t-shirts?",
+    "Response 2": "Hello there! We specialize in clothing items. Are you looking for t-shirts or something else?"
+  },
+  {
+    "Query 3": "yes, t-shirts",
+    "Response 3": "Here are some t-shirts that might interest you:\n1. Kids' Graphic Tee - Fun t-shirt with playful designs. Available in sizes XS, S, M.\n2. Men's Summer T-Shirt - Lightweight t-shirt ideal for warm weather. Available in sizes S, M, L.\n3. Men's Linen Shirt - Light shirt for warm weather. Available in sizes M, L, XL.\n4. Unisex Sweatshirt - Cozy sweatshirt for casual wear. Available in sizes M, L, XL.\n\nEnjoy shopping!"
+  },
+  {
+    "Query 4": "which color is available in Men's Summer T-Shirt?",
+    "Response 4": "The Men's Summer T-Shirt is available in Blue, Green, and White colors. It's currently in stock with 75 items available. Would you like to view more details or add it to your cart?"
+  },
+  {
+    "Query 5": "Do you have Men's Formal Shirt?",
+    "Response 5": "Yes, we have Men's Formal Shirts. Unfortunately, we are currently out of stock for both the Men's Formal Shirt and the Men's Dress Shirt. If you'd like to be notified when they're back in stock, please provide your email address. Here are some other options for formal wear:\n\n1. Men's Dress Jacket by SharpLook - In stock, available in black and navy.\n2. Men's Casual Jacket by UrbanWear - In stock, available in blue, gray, and black.\n\nWould you like more information on these items or would you prefer to wait for the formal shirts to be restocked?"
+  },
+  {
+    "Query 7": "Do you sell umbrella?",
+    "Response 7": "I'm sorry, but we don't sell umbrellas here. We specialize in clothing items. If you have any questions about our clothing selection, feel free to ask! If you're interested in being notified about new arrivals, I'd be happy to add you to our email list. Just let me know if that's something you'd like. You can also type 'exit' to end our conversation whenever you're ready."
+  },
+  {
+    "Query 8": "eixt",
+    "Response 8": "I'm sorry, it seems there might be a typo in your request. I found a couple of items that might match what you're looking for. Here are some suggestions:\n\n1. Men's Denim Jacket - A stylish jacket for cool evenings. Available in blue, sizes M, L, XL.\n2. Unisex Sweatshirt - A cozy sweatshirt for casual wear. Available in green and blue, sizes M, L, XL.\n3. Unisex Fleece Jacket - A cozy jacket for cool days. Available in green and black, sizes M, L, XL.\n\nIf none of these are what you had in mind, please let me know and I'll be happy to help you find what you're looking for!"
+  }
+]
